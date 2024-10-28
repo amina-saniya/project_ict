@@ -1,0 +1,77 @@
+.wrapper{
+  background-image: url("https://img.freepik.com/free-photo/flat-lay-office-desk-assortment-with-copy-space_23-2148707962.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:103%;
+  height:95vh;
+  /* align-items: center;
+  justify-content: center; */
+   display: flex;
+}
+/* body{
+  background-image: url("https://img.freepik.com/free-photo/we-are-hiring-digital-collage_23-2149667034.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width: 118%;
+  height: 100vh;
+
+} */
+.nav{
+  vertical-align: top;
+  width:100%;
+  
+}
+.back{
+  background-image: url("https://img.freepik.com/free-photo/flat-lay-office-desk-assortment-with-copy-space_23-2148707962.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  /* width:118%; */
+  height:100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.bg{
+  background-image: url("https://img.freepik.com/free-photo/flat-lay-office-desk-assortment-with-copy-space_23-2148707962.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:103%;
+  height:95vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  
+}
+/* .log,.sign{
+  background-color: rgba(255, 255, 255, 0.33);
+  box-shadow: 0px 8px 32px 0 rgba(0, 0, 255, 0.3);
+  backdrop-filter: blur(3px);
+  padding:18px 18px 18px 18px;
+  border-radius: 18px;
+} */
+.user{
+  background-image: url("https://img.freepik.com/free-photo/flat-lay-office-desk-assortment-with-copy-space_23-2148707962.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:103%;
+  height:150vh;
+  /* align-items: center;
+  justify-content: center; */
+  display: flex;
+}
+.adminn{
+  background-image: url("https://img.freepik.com/free-photo/flat-lay-office-desk-assortment-with-copy-space_23-2148707962.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  width:103%;
+  height:100vh;
+  /* align-items: center;
+  justify-content: center; */
+  display: flex;
+}
